@@ -28,9 +28,22 @@ In some cases we provide python code for some simple computation and validation
   - Jan 13, 2025 [Driverless Consecutive Leaping Test | YANGWANG U9](https://www.youtube.com/watch?v=-QJYSkq8KVA)
   - Sep 16, 2023 [BYD Yangwang U8 floats in water](https://www.youtube.com/watch?v=bs4BNOfLHYw)
 
+  ### Others
+  - Oct 9, 2022 [China destroyed its tech giants. Here's why](https://www.youtube.com/watch?v=-JAFb2bYJSs) Explains what Jack Ma did
+
 ## Xinjiang
-  ### Westerner travel logs:
+  ### Travel logs:
   - May 16, 2025 [What do Uyghurs say about China?](https://www.youtube.com/watch?v=Q6xsYeNXTRc)
+  - Dec 13, 2024 [I Don’t Trust The Media, So I Flew To Xinjiang, China Myself](https://www.youtube.com/watch?v=4ruu_dQAYZg)
+  - Dec 8, 2024 [Inside Uyghur Autonomous Region](https://www.youtube.com/watch?v=vXhcgf6eC4U)
+  - Apr 25, 2025 [Where CHINA Meets Central Asia - XINJIANG](https://www.youtube.com/watch?v=eQPRfIoOYtY)
+
+  ### Others
+  - Jul 3, 2025 [White savior tells Uygur](https://www.youtube.com/watch?v=JDR5itJtZU8)
+
+## General discussions:
+  - [Why I Stopped Making Videos Defending China](https://www.youtube.com/watch?v=WDSDX15qps0)
+  - Feb 17, 2025 [The truth about living in China for 25 years (British POV)](https://www.youtube.com/watch?v=6VjYYOubUKA)
 
 ## Other China travel logs:
   - Mar 24, 2025 [iShowSpeed's First Day In China!](https://www.youtube.com/watch?v=jpX04R596o4)
