@@ -23,7 +23,15 @@ In some cases we provide python code for some simple computation and validation
   - Dec 24, 2021 [The Truth About China in Africa by PolyMatter](https://www.youtube.com/watch?v=7gwgcIfzttA)
   - Mar 29, 2021 [Zambia: Under Chinese influence | Reporters Plus • FRANCE 24 English](https://www.youtube.com/watch?v=Co0RGa99W0M)
 
+## China Technology
+  ### Electric Vehicles:
+  - Jan 13, 2025 [Driverless Consecutive Leaping Test | YANGWANG U9](https://www.youtube.com/watch?v=-QJYSkq8KVA)
+  - Sep 16, 2023 [BYD Yangwang U8 floats in water](https://www.youtube.com/watch?v=bs4BNOfLHYw)
 
 ## Xinjiang
   ### Westerner travel logs:
   - May 16, 2025 [What do Uyghurs say about China?](https://www.youtube.com/watch?v=Q6xsYeNXTRc)
+
+## Other China travel logs:
+  - Mar 24, 2025 [iShowSpeed's First Day In China!](https://www.youtube.com/watch?v=jpX04R596o4)
+  - Oct 9, 2024 [The Side of China The Media Won't Show You](https://www.youtube.com/watch?v=fci9MQ3VZ_I)
