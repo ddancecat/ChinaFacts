@@ -3,7 +3,11 @@ Bring better understanding of China with interesting facts and diverse perspecti
 
 > **Disclaimer:** This project is for educational and informational purposes only. We aim to provide diverse perspectives supported by data sources whenever possible, to encourage critical thinking and reduce misunderstandings. All information is cited and open to verification. We do not endorse any government or ideology, nor do we necessarily agree with all external content or discussions referenced here. 
 
-When possible, we provide python code for some simple computation and validation
+In some cases we provide python code for some simple computation and validation
+
+## China Basics
+  - Jul 1, 2013 [TED talk Eric X. Li: A tale of two political systems](https://www.youtube.com/watch?v=s0YjL9rZyR0)
+  - Jul 25, 2021 [Is China Capitalist, Socialist or ? - Richard D Wolff](https://www.youtube.com/watch?v=5mjVP09XqbM)
 
 ## China and Africa
   ### African people's take on the topic
@@ -20,3 +24,6 @@ When possible, we provide python code for some simple computation and validation
   - Mar 29, 2021 [Zambia: Under Chinese influence | Reporters Plus • FRANCE 24 English](https://www.youtube.com/watch?v=Co0RGa99W0M)
 
 
+## Xinjiang
+  ### Westerner travel logs:
+  - May 16, 2025 [What do Uyghurs say about China?](https://www.youtube.com/watch?v=Q6xsYeNXTRc)
