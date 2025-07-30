@@ -39,6 +39,7 @@ In some cases we provide python code for some simple computation and validation
   - Apr 25, 2025 [Where CHINA Meets Central Asia - XINJIANG](https://www.youtube.com/watch?v=eQPRfIoOYtY)
 
   ### Others
+  - Jan 2, 2022, [Analysis by AaroninChina](https://www.youtube.com/watch?v=xm5fNV0rSaI)
   - Jul 3, 2025 [White savior tells Uygur](https://www.youtube.com/watch?v=JDR5itJtZU8)
 
 ## General discussions:
