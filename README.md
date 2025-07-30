@@ -32,6 +32,9 @@ In some cases we provide python code for some simple computation and validation
   - Oct 9, 2022 [China destroyed its tech giants. Here's why](https://www.youtube.com/watch?v=-JAFb2bYJSs) Explains what Jack Ma did
 
 ## Xinjiang
+  ### Quick checks
+  - Does the media always tell you the truth? Quick to validate yourself: on youtube, [one of BBC's report](https://www.youtube.com/watch?v=-mqga0a6H8I&t=92s) (Mar 2, 2021) 1 min 32 shows the clip from 4 min 35 from [this video](https://www.youtube.com/watch?v=07NjqkQAgs8&t=285s), claim this a “new evidence”, removed all context and no English sub.
+
   ### Travel logs:
   - May 16, 2025 [What do Uyghurs say about China?](https://www.youtube.com/watch?v=Q6xsYeNXTRc)
   - Dec 13, 2024 [I Don’t Trust The Media, So I Flew To Xinjiang, China Myself](https://www.youtube.com/watch?v=4ruu_dQAYZg)
