@@ -33,7 +33,7 @@ In some cases we provide python code for some simple computation and validation
 
 ## Xinjiang
   ### Quick checks
-  - Does the media always tell you the truth? Quick to validate yourself: on youtube, [one of BBC's report](https://www.youtube.com/watch?v=-mqga0a6H8I&t=92s) (Mar 2, 2021) 1 min 32 shows the clip from 4 min 35 from [this video](https://www.youtube.com/watch?v=07NjqkQAgs8&t=285s), claim this a “new evidence”, removed all context and no English sub.
+  - Does the media always tell you the truth? Quick to validate yourself: on youtube, [one of BBC's report](https://www.youtube.com/watch?v=-mqga0a6H8I&t=92s) (Mar 2, 2021) 1 min 32 shows the clip from 4 min 35 from [this video](https://www.youtube.com/watch?v=07NjqkQAgs8&t=285s), claim this a “new evidence”, removed all context and no English sub. (Even if you don't believe China media, does it mean you can arbitrarily twist it?)
 
   ### Travel logs:
   - May 16, 2025 [What do Uyghurs say about China?](https://www.youtube.com/watch?v=Q6xsYeNXTRc)
